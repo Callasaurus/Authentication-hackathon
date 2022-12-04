@@ -15,7 +15,7 @@ Tools and languages:
 
 # App demo
 
-![Screenshot](auth0 authentication.png)
+![Screenshot](Authentication-hackathon\auth0 authentication.png)
 ![Screenshot](getting posts (authorised non-admin).png)
 ![Screenshot](getting all posts (authorised non-admin).png)
 ![Screenshot](getting all posts (authorised admin).png)
