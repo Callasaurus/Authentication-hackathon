@@ -15,11 +15,7 @@ Tools and languages:
 
 # App demo
 
-![Screenshot](Authentication-hackathon\auth0 authentication.png)
-![Screenshot](getting posts (authorised non-admin).png)
-![Screenshot](getting all posts (authorised non-admin).png)
-![Screenshot](getting all posts (authorised admin).png)
-![Screenshot](getting posts (not authorized).png)
+![Alt text](Authentication-hackathon\auth0 authentication.png "Optional Title")
 
 # How to clone the repo:
 
