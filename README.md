@@ -15,7 +15,7 @@ Tools and languages:
 
 # App demo
 
-https://postimg.cc/5Xxb1jc1
+![Logo](https://postimg.cc/5Xxb1jc1)
 
 # How to clone the repo:
 
