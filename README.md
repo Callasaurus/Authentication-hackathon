@@ -15,7 +15,7 @@ Tools and languages:
 
 # App demo
 
-![Alt text](Authentication-hackathon\auth0 authentication.png "Optional Title")
+[url=https://postimg.cc/5Xxb1jc1][img]https://i.postimg.cc/5Xxb1jc1/auth0-authentication.png[/img][/url]
 
 # How to clone the repo:
 
