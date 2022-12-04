@@ -1,6 +1,6 @@
 # Authentication-hackathon
 
-A full-stack application that users authentication and authorization to grant/limit users permissions to view certain information associated with blog posts (created during the SOC week 10 hackathon day). Users are authenticated using Auth0 and are authorized by checking the existence/status of their email and user type (user or admin) in the database. 
+A full-stack application that users authentication and authorization to grant/limit users permissions to view certain information associated with blog posts (created during the SOC week 10 hackathon day). Users are authenticated using Auth0 and are authorized by checking the existence of their email and the status of their user type (user or admin) in the database. 
 
 ## Skills
 
