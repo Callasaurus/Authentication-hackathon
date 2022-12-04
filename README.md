@@ -27,7 +27,7 @@ Tools and languages:
 ## Authorized non-user (getting all posts):
 ![getting all posts (authorised non-admin)](https://user-images.githubusercontent.com/112335053/205508721-e7b6fd3b-5394-4613-a519-bf77d08b7c4b.png)
 
-## Authorized admin (getting all posts):
+## Authorized admin (getting all posts) - admin has access to user email information:
 ![getting all posts (authorised admin)](https://user-images.githubusercontent.com/112335053/205508728-8a6366d7-6933-46c7-87df-f5cccfa79272.png)
 
 # How to clone the repo:
