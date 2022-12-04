@@ -21,10 +21,10 @@ Tools and languages:
 ## Non-authorized user:
 ![getting posts (not authorized)](https://user-images.githubusercontent.com/112335053/205508681-951f9d44-6062-4491-bdc7-e2333a416be3.png)
 
-## Authorized non-user (getting own post):
+## Authorized non-admin user (getting own post):
 ![getting posts (authorised non-admin)](https://user-images.githubusercontent.com/112335053/205508715-3547c2f6-90d7-459f-983d-301b24f5a142.png)
 
-## Authorized non-user (getting all posts):
+## Authorized non-admin user (getting all posts):
 ![getting all posts (authorised non-admin)](https://user-images.githubusercontent.com/112335053/205508721-e7b6fd3b-5394-4613-a519-bf77d08b7c4b.png)
 
 ## Authorized admin (getting all posts) - admin has access to user email information:
