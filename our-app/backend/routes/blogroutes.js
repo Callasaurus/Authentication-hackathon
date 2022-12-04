@@ -3,7 +3,7 @@ const router = express.Router();
 
 import {
     getBlogPosts,
-    getAllBlogPosts
+    getAllBlogPosts,
 } from "../models/blogmodels.js";
 
 router.get("/", async (req, res) => {
