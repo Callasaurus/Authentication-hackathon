@@ -20,13 +20,13 @@ x
 # How to clone the repo:
 
 ```bash
-  git clone x
+  git clone https://github.com/Callasaurus/Authentication-hackathon.git
 ```
 
 # How to run the front end:
 
 ```bash
-  cd x
+  cd w10_auth-athon-room-24-7-jalla/our-app/1-frontend
 ```
 
 Install dependencies
@@ -44,7 +44,7 @@ Open React app
 # How to run the back end:
 
 ```bash
-  cd x
+  cd w10_auth-athon-room-24-7-jalla/our-app/backend
 ```
 
 Install dependencies
