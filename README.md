@@ -15,7 +15,11 @@ Tools and languages:
 
 # App demo
 
-x
+![Screenshot](auth0 authentication.png)
+![Screenshot](getting posts (authorised non-admin).png)
+![Screenshot](getting all posts (authorised non-admin).png)
+![Screenshot](getting all posts (authorised admin).png)
+![Screenshot](getting posts (not authorized).png)
 
 # How to clone the repo:
 
