@@ -15,7 +15,7 @@ Tools and languages:
 
 # App demo
 
-![Logo](https://postimg.cc/5Xxb1jc1)
+![auth0 authentication](https://user-images.githubusercontent.com/112335053/205508642-f007a643-cf2b-4762-b857-e3a4a9da5cfc.png)
 
 # How to clone the repo:
 
